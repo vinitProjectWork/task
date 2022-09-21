@@ -1,0 +1,43 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "vinit-mendapara",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@reduxjs/toolkit": "^1.8.5",
+    "@types/react": "^18.0.20",
+    "graphql": "^16.6.0",
+    "react": "^18.2.0",
+    "react-data-table-component": "^7.5.3",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.2",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.2.0",
+    "sass": "^1.54.9",
+    "styled-components": "^5.3.5",
+    "typescript": "^4.8.3"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^18.0.6"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
